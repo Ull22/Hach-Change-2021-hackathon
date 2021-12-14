@@ -1,4 +1,5 @@
-# bbyby_Hack-Change
+# Hach&Change 2021 hackathon - Data engineering (kafka-spark-sql)
+## team bbyby
 
 Файлы с кодом для хакатона представлены в формате ipynb. Они запускались на Google Collab, датасеты загружались на Google drive
 
